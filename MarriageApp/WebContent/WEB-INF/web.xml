@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app>
+<servlet>
+<servlet-name>marriage</servlet-name>
+<servlet-class>com.nt.servlet.MarriageServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+
+<servlet-name>marriage</servlet-name>
+<url-pattern>/test</url-pattern>
+</servlet-mapping>
+
+
+
+
+<welcome-file-list>
+<welcome-file>page.html</welcome-file>
+</welcome-file-list>
+
+</web-app>

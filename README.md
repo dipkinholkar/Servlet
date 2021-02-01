@@ -1,0 +1,2 @@
+# Servlet
+  java servlet tutorial Servlet technology is used to create a web application (resides at server side and generates a dynamic web page).  Servlet technology is robust and scalable because of java language. Before Servlet, CGI (Common Gateway Interface) scripting language was common as a server-side programming language. However, there were many disadvantages to this technology. We have discussed these disadvantages below.  There are many interfaces and classes in the Servlet API such as Servlet, GenericServlet, HttpServlet, ServletRequest, ServletResponse.

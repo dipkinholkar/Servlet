@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+<display-name>show</display-name>
+ <servlet>
+ <servlet-name>data</servlet-name>
+ <servlet-class>app.wish.wishmessage.First</servlet-class>
+ </servlet>
+ 
+<servlet-mapping>
+<servlet-name>data</servlet-name>
+<url-pattern>/wishme</url-pattern>
+</servlet-mapping>
+ </web-app>
